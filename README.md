@@ -1,5 +1,5 @@
 # mod_6_live_test
-<img src="https://ibb.co/JxNVTjW.png">
+<img src="https://ibb.co/JxNVTjW.jpg">
 Module 6 Live Test
 
 ## Getting Started
