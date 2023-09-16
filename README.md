@@ -1,5 +1,5 @@
 # mod_6_live_test
-<img src="https://ibb.co/JxNVTjW.webp">
+<img src="https://imgur.com/gnurupt.jpg">
 Module 6 Live Test
 
 ## Getting Started
